@@ -11,3 +11,4 @@
 3) switch(checkout)
 4) git stash --> Undo
 5) git fetch
+6) Added new command
